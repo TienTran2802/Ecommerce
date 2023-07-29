@@ -10,3 +10,8 @@ Those merchants are able to sell their products through the Olist Store and ship
 
 After a customer purchases the product from Olist Store, a seller gets notified to fulfill that order. 
 Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
+
+## Requirement
+- Analyse the company's performance and deliver insights for improvement
+- Provide rationale behind metrics
+- Provide supporting analysis and visualization to communicate ideas
